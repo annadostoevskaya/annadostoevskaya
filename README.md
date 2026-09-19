@@ -1,4 +1,4 @@
-# Hi, I'm Temirbek Rakhimgalyiev 👋
+# Temirbek Rakhimgalyiev
 
 ### Site Reliability & Platform Engineer
 **Astana, Kazakhstan (Open to Worldwide Remote)**  
@@ -8,17 +8,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
 Site Reliability and Systems Engineer specializing in bare-metal fleet operations, high-availability container platforms, and declarative infrastructure automation. Practical experience spanning on-premises hardware provisioning (PXE/iPXE, IPMI/Redfish), Linux kernel and network tuning, and operating mission-critical production services.
 
-* 🎓 **Education:** Master of Science in Cybersecurity (ENU, ongoing) · BSc in Radio Engineering & Telecommunications (Honors / High Distinction).
-* 🏢 **Experience:** DevOps Engineer at Rocket Tech (2.5+ yrs), Infrastructure Engineer on bare-metal compute platforms, Backend Engineer (HealthTech).
-* 🎯 **Focus Areas:** Bare-metal provisioning, Kubernetes control-plane HA (`kube-vip`), FluxCD GitOps, PostgreSQL reliability (PITR), out-of-band telemetry, and Linux kernel parameter tuning (USE method).
+* **Education:** Master of Science in Cybersecurity (ENU, ongoing) · BSc in Radio Engineering & Telecommunications (Honors / High Distinction).
+* **Experience:** DevOps Engineer at Rocket Tech (2.5+ yrs), Infrastructure Engineer on bare-metal compute platforms, Backend Engineer (HealthTech).
+* **Focus Areas:** Bare-metal provisioning, Kubernetes control-plane HA (`kube-vip`), FluxCD GitOps, PostgreSQL reliability (PITR), out-of-band telemetry, and Linux kernel parameter tuning (USE method).
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 | Project | Description | Primary Tech |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Site Reliability and Systems Engineer specializing in bare-metal fleet operation
 
 ---
 
-## 🛠️ Technical Taxonomy
+## Technical Taxonomy
 
 ```text
 ├── Systems & Kernel    : Oracle Linux, Ubuntu, UEFI iPXE, Kickstart, IPMI/Redfish, systemd, sysctl, cgroups, NUMA
