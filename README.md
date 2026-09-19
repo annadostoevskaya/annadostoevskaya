@@ -23,7 +23,7 @@ Site Reliability and Systems Engineer specializing in bare-metal fleet operation
 | Project | Description | Primary Tech |
 | :--- | :--- | :--- |
 | [**baremetal-rke2-gitops-fleet**](https://github.com/annadostoevskaya/baremetal-rke2-gitops-fleet) | Sanitized reference architecture for an 8-node physical Oracle Linux compute fleet running HA RKE2 with `kube-vip` virtual IP failover, Redfish out-of-band telemetry, and FluxCD GitOps. | `RKE2`, `kube-vip`, `FluxCD`, `iPXE`, `Python` |
-| [**frieren-manifest**](https://github.com/annadostoevskaya/frieren-manifest) | Cloud-native IoT telemetry ingestion, time-series storage, and observability platform packaged into production Helm charts with zero-trust secret templates. | `Kubernetes`, `Helm`, `ChirpStack`, `InfluxDB`, `PostgreSQL` |
+| [**iot-telemetry-platform**](https://github.com/annadostoevskaya/iot-telemetry-platform) | Cloud-native IoT telemetry ingestion, time-series storage, and observability platform packaged into production Helm charts with zero-trust secret templates. | `Kubernetes`, `Helm`, `ChirpStack`, `InfluxDB`, `PostgreSQL` |
 | [**zero_runtime**](https://github.com/annadostoevskaya/zero_runtime) | Minimalist zero-runtime implementation in Assembly & C demonstrating direct Linux kernel system call invocation without standard library overhead. | `Assembly`, `C`, `Linux Syscalls` |
 | [**greenhouse**](https://github.com/annadostoevskaya/greenhouse) | Industrial-grade IoT telemetry and environmental monitoring system linking physical embedded AVR microcontrollers (SPI W5100) to Prometheus & Grafana. | `C++`, `Docker Compose`, `Prometheus`, `GitLab CI` |
 
